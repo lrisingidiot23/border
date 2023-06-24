@@ -1,0 +1,46 @@
+body
+{
+    background-color: brown;
+}
+p.style1
+{
+    font-size:50px;
+    color:white;
+    border:20px solid black;
+    text-align: center;
+}
+p.style2
+{
+    font-size:50px;
+    color:white;
+    border:20px dashed black;
+    text-align: center;
+}
+p.style3
+{
+    font-size:50px;
+    color:white;
+    border:20px dotted black;
+    text-align: center;
+}
+p.style4
+{
+    font-size:50px;
+    color:white;
+    border:20px double black;
+    text-align: center;
+}
+p.style5
+{
+    font-size:50px;
+    color:white;
+    border:20px groove black;
+    text-align: center;
+}
+p.style6
+{
+    font-size:50px;
+    color:white;
+    border:20px ridge black;
+    text-align: center;
+}
